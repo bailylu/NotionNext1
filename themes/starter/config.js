@@ -61,16 +61,16 @@ const CONFIG = {
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
-  STARTER_ABOUT_TITLE: '数码产品测评 | 使用教程 | 科普视频',
+  STARTER_ABOUT_TITLE: '数码科技|使用教程|科普视频',
   STARTER_ABOUT_TEXT:
-    '我是贝利，一个对数码产品充满好奇心的普通人。在这里，我分享自己的使用心得，制作有趣的科普视频，希望能和你一起探索科技的奥秘。 让我们用最简单的方式，玩转最酷的科技产品！',
+    '我是贝利，一个对数码产品充满好奇心的普通人。在这里，我分享自己的使用心得，制作有趣的科普视频。 让我们用最简单的方式，玩转最酷的科技产品！',
   STARTER_ABOUT_BUTTON_TEXT: '了解更多',
   STARTER_ABOUT_BUTTON_URL: 'https://www.baily.life/about',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
   STARTER_ABOUT_TIPS_1: '玩转科技',
   STARTER_ABOUT_TIPS_2: '和我一起',
-  STARTER_ABOUT_TIPS_3: '让我们一起成长',
+  STARTER_ABOUT_TIPS_3: 'Tech Value',
 
   // 首页价格区块
   STARTER_PRICING_ENABLE: false, // 价格区块开关
