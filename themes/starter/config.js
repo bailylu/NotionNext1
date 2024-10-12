@@ -239,11 +239,11 @@ const CONFIG = {
 
   // 联系模块
   STARTER_CONTACT_ENABLE: true, // 联系模块开关
-  STARTER_CONTACT_TITLE: '联系我们',
-  STARTER_CONTACT_TEXT: '告诉我们您遇到的问题',
-  STARTER_CONTACT_LOCATION_TITLE: '我们的位置',
+  STARTER_CONTACT_TITLE: '联系我',
+  STARTER_CONTACT_TEXT: '告诉我想合作的内容',
+  STARTER_CONTACT_LOCATION_TITLE: '我的位置',
   STARTER_CONTACT_LOCATION_TEXT: '中国，杭州',
-  STARTER_CONTACT_EMAIL_TITLE: '我们如何帮助您？',
+  STARTER_CONTACT_EMAIL_TITLE: '如何联系我？',
   STARTER_CONTACT_EMAIL_TEXT: 'bailylu@icloud.com',
 
   // 嵌入外部表单
@@ -297,32 +297,32 @@ const CONFIG = {
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [
     {
-      TITLE: '关于我们',
+      TITLE: '关注我',
       LINK_GROUP: [
-        { TITLE: '官方主页', URL: '/#home' },
-        { TITLE: '操作文档', URL: 'https://docs.tangly1024.com/about' },
+        { TITLE: 'youtube', URL: 'https://www.youtube.com/channel/UCR7jniK3h1EpcgDGWbRsWXQ' },
+        { TITLE: 'Bilibili', URL: 'https://docs.tangly1024.com/about' },
         {
-          TITLE: '帮助支持',
-          URL: 'https://docs.tangly1024.com/article/how-to-question'
+          TITLE: '公众号',
+          URL: 'https://mp.weixin.qq.com/s?__biz=Mzg2MDg3NTk0MQ==&mid=2247483677&idx=1&sn=b2b6c610a97d18d7684e90d491ed935b&chksm=ce1efcd7f96975c1a04994bc00181ec349853be6fdf99aef84cf2cbe44fb5b9042bb2376a194&token=9436536&lang=zh_CN#rd'
         },
         {
-          TITLE: '合作申请',
-          URL: 'https://docs.tangly1024.com/article/my-service'
+          TITLE: '抖音',
+          URL: 'https://www.douyin.com/user/MS4wLjABAAAA60ZK79N1WB8-hL8d4c9FtCWeveFCu5QW3ol-5EqHXwXNLlqvdxBgkWvhb3xQJwaE'
         }
       ]
     },
     {
-      TITLE: '功能特性',
+      TITLE: '个人生活账号',
       LINK_GROUP: [
         {
-          TITLE: '部署指南',
-          URL: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next'
+          TITLE: 'X',
+          URL: 'https://x.com/bailyLU'
         },
         {
-          TITLE: '升级指南',
-          URL: 'https://docs.tangly1024.com/article/how-to-update-notionnext'
+          TITLE: 'ins',
+          URL: 'https://www.instagram.com/baily_lu?utm_source=qr'
         },
-        { TITLE: '最新版本', URL: 'https://docs.tangly1024.com/article/latest' }
+        { TITLE: '小红书', URL: 'https://www.xiaohongshu.com/user/profile/5b743fb9c0abeb000138e024?xhsshare=CopyLink&appuid=5b743fb9c0abeb000138e024&apptime=1696413313' }
       ]
     },
     {
