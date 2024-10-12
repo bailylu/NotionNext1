@@ -65,7 +65,7 @@ const CONFIG = {
   STARTER_ABOUT_TEXT:
     '我是贝利，一个对数码产品充满好奇心的普通人。在这里，我分享自己的使用心得，制作有趣的科普视频。 让我们用最简单的方式，玩转最酷的科技产品！',
   STARTER_ABOUT_BUTTON_TEXT: '了解更多',
-  STARTER_ABOUT_BUTTON_URL: 'https://www.baily.life/video',
+  STARTER_ABOUT_BUTTON_URL: 'https://muselink.cc/baily',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
   STARTER_ABOUT_TIPS_1: '玩转科技',
