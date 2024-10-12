@@ -261,7 +261,7 @@ const CONFIG = {
   STARTER_BRANDS_ENABLE: true, // 合作伙伴开关
   STARTER_BRANDS: [
     {
-      IMAGE: '/images/starter/brands/graygrids.svg',
+      IMAGE: 'public/images/starter/brands/Youtube-removebg-preview.png',
       IMAGE_WHITE: '/images/starter/brands/graygrids-white.svg',
       URL: 'https://graygrids.com/',
       TITLE: 'graygrids'
