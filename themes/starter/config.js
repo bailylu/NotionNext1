@@ -18,7 +18,7 @@ const CONFIG = {
     'https://muselink.cc/bailytalk', // 英雄区按钮
   STARTER_HERO_BUTTON_2_TEXT: '知识星球', // 英雄区按钮
   STARTER_HERO_BUTTON_2_URL: 'https://t.zsxq.com/qYREi', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_ICON: '/images/starter/zhiShiXingQiu.svg', // 英雄区按钮2的图标，不需要则留空
+  STARTER_HERO_BUTTON_2_ICON: '/images/starter/zhiShiXingQiu (1).svg', // 英雄区按钮2的图标，不需要则留空
 
   // 英雄区配图，如需隐藏，改为空值即可 ''
   STARTER_HERO_PREVIEW_IMAGE: '/images/starter/321.JPG', // 产品预览图 ，默认读取public目录下图片
