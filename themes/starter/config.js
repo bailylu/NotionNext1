@@ -16,7 +16,7 @@ const CONFIG = {
   STARTER_HERO_BUTTON_1_TEXT: '必看推荐', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
     'https://muselink.cc/bailytalk', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_TEXT: '我的小铺', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_TEXT: '知识星球', // 英雄区按钮
   STARTER_HERO_BUTTON_2_URL: 'https://t.zsxq.com/qYREi', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '/images/starter/zhiShiXingQiu.svg', // 英雄区按钮2的图标，不需要则留空
 
