@@ -11,7 +11,7 @@ const CONFIG = {
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
   STARTER_HERO_TITLE_1: '👋Hi，我是贝利，希望我的分享对你有帮助，感谢你的支持。', // 英雄区文字
-  STARTER_HERO_TITLE_2: 'Tech Value | 科技/旅行/性价比', // 英雄区文字
+  STARTER_HERO_TITLE_2: 'Tech Value | 科技/旅行/性价比生活', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '必看推荐', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
@@ -61,9 +61,9 @@ const CONFIG = {
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
-  STARTER_ABOUT_TITLE: '数码科技|使用教程|科普视频',
+  STARTER_ABOUT_TITLE: '数码科技|机票酒店|生活分享',
   STARTER_ABOUT_TEXT:
-    '我是贝利，一个对数码产品充满好奇心的普通人。在这里，我分享自己的使用心得，制作有趣的科普视频。 让我们用最简单的方式，玩转最酷的科技产品！',
+    '我是贝利，和你一样，我是一个有着自己爱好的普通人。在这里，我分享自己的使用心得，制作有趣的科普视频。也会分享我的旅游经验、机票酒店的省钱技巧，可以买贵的，但是不能买贵了！',
   STARTER_ABOUT_BUTTON_TEXT: '了解更多',
   STARTER_ABOUT_BUTTON_URL: 'https://muselink.cc/baily',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
