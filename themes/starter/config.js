@@ -33,30 +33,30 @@ const CONFIG = {
 
   // 特性区块
   STARTER_FEATURE_ENABLE: false, // 特性区块开关
-  STARTER_FEATURE_TITLE: '特性', // 特性
-  STARTER_FEATURE_TEXT_1: 'NotionNext的主要特性', // 特性
+  STARTER_FEATURE_TITLE: '我认为', // 特性
+  STARTER_FEATURE_TEXT_1: '可以买贵的，但是不能买贵了', // 特性
   STARTER_FEATURE_TEXT_2:
-    'NotionNext的愿景是帮助您简单、无感知地稳定地搭建自己的网站，放大品牌的价值。 ', // 特性
+    '致力于为您分享高性价比的数码科技，同时教会大家如何巧用信用卡、酒店和机票积分，掌握实用的旅行查询技巧，让我们一起享受更精彩的旅行生活！ ', // 特性
 
-  STARTER_FEATURE_1_TITLE_1: '免费且开源', // 特性1
-  STARTER_FEATURE_1_TEXT_1: '项目源码在Github上完全开放共享，遵循MIT协议', // 特性1
-  STARTER_FEATURE_1_BUTTON_TEXT: '了解更多', // 特性1
+  STARTER_FEATURE_1_TITLE_1: '数码科技产品', // 特性1
+  STARTER_FEATURE_1_TEXT_1: '我会分享好玩有趣的数码科技产品，提高数码软件在生活中的价值。', // 特性1
+  STARTER_FEATURE_1_BUTTON_TEXT:', // 特性1
   STARTER_FEATURE_1_BUTTON_URL: 'https://github.com/tangly1024/NotionNext', // 特性1
 
-  STARTER_FEATURE_2_TITLE_1: '多种主题定制', // 特性2
-  STARTER_FEATURE_2_TEXT_1: '数十种主题,适用于不同场景，总有一款适合你', // 特性2
-  STARTER_FEATURE_2_BUTTON_TEXT: '了解更多', // 特性2
+  STARTER_FEATURE_2_TITLE_1: '机票', // 特性2
+  STARTER_FEATURE_2_TEXT_1: '分享通过积分预定全球航司积分好票，bug票漏油票，航司会籍等分享', // 特性2
+  STARTER_FEATURE_2_BUTTON_TEXT: '', // 特性2
   STARTER_FEATURE_2_BUTTON_URL:
     'https://docs.tangly1024.com/article/notion-next-themes', // 特性2
 
-  STARTER_FEATURE_3_TITLE_1: '优秀的性能', // 特性3
-  STARTER_FEATURE_3_TEXT_1: '基于NextJS开发，更快的响应速度，更好的SEO', // 特性3
-  STARTER_FEATURE_3_BUTTON_TEXT: '了解更多', // 特性3
+  STARTER_FEATURE_3_TITLE_1: '酒店', // 特性3
+  STARTER_FEATURE_3_TEXT_1: '分享全球酒店积分会籍，入住旅行体验，如何利用积分预定低价好房。', // 特性3
+  STARTER_FEATURE_3_BUTTON_TEXT: '', // 特性3
   STARTER_FEATURE_3_BUTTON_URL: 'https://docs.tangly1024.com/article/next-js', // 特性3
 
-  STARTER_FEATURE_4_TITLE_1: '便捷的写作体验', // 特性4
-  STARTER_FEATURE_4_TEXT_1: '只需在Notion笔记中编修，自动同步到网站', // 特性4
-  STARTER_FEATURE_4_BUTTON_TEXT: '了解更多', // 特性4
+  STARTER_FEATURE_4_TITLE_1: '信用卡', // 特性4
+  STARTER_FEATURE_4_TEXT_1: '主要是国内信用卡分享，偏向航旅积分和出行权益的分享', // 特性4
+  STARTER_FEATURE_4_BUTTON_TEXT: '', // 特性4
   STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about', // 特性4
 
   // 首页ABOUT区块
