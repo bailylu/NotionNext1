@@ -27,7 +27,7 @@ const NotionPage = ({ post, className }) => {
     })
 
   const zoomRef = useRef(zoom ? zoom.clone() : null)
-
+  const IMAGE_ZOOM_IN_WIDTH = siteConfig('IMAGE_ZOOM_IN_WIDTH', 1200)
   // 页面首次打开时执行的勾子
   useEffect(() => {
     // 检测当前的url并自动滚动到对应目标
@@ -64,7 +64,7 @@ const NotionPage = ({ post, className }) => {
               //   替换为更高清的图像
               mutation?.target?.setAttribute(
                 'src',
-                compressImage(src, siteConfig('IMAGE_ZOOM_IN_WIDTH', 1200))
+                compressImage(src, IMAGE_ZOOM_IN_WIDTH)
               )
             }, 800)
           }
@@ -149,9 +149,11 @@ const processGalleryImg = zoom => {
 const autoScrollToHash = () => {
   setTimeout(() => {
     // 跳转到指定标题
-    const needToJumpToTitle = window.location.hash
+    const hash = window?.location?.hash
+    const needToJumpToTitle = hash && hash > 0
     if (needToJumpToTitle) {
-      const tocNode = document.getElementById(window.location.hash.substring(1))
+      console.log('jump to hash', hash)
+      const tocNode = document.getElementById(hash.substring(1))
       if (tocNode && tocNode?.className?.indexOf('notion') > -1) {
         tocNode.scrollIntoView({ block: 'start', behavior: 'smooth' })
       }
