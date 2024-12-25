@@ -34,7 +34,7 @@ const CONFIG = {
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
   STARTER_FEATURE_TITLE: '我认为', // 特性
-  STARTER_FEATURE_TEXT_1: '可以买贵的，但是不能买贵了', // 特性
+  STARTER_FEATURE_TEXT_1: '可以买贵的，但不能买贵了', // 特性
   STARTER_FEATURE_TEXT_2:
     '致力于为您分享高性价比的数码科技，同时教会大家如何巧用信用卡、酒店和机票积分，掌握实用的旅行查询技巧，让我们一起享受更精彩的旅行生活！', // 特性
 
