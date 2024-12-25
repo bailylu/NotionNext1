@@ -40,7 +40,7 @@ const CONFIG = {
 
   STARTER_FEATURE_1_TITLE_1: '数码科技产品', // 特性1
   STARTER_FEATURE_1_TEXT_1: '我会分享好玩有趣的数码科技产品，提高数码软件在生活中的价值。', // 特性1
-  STARTER_FEATURE_1_BUTTON_TEXT:', // 特性1
+  STARTER_FEATURE_1_BUTTON_TEXT:'', // 特性1
   STARTER_FEATURE_1_BUTTON_URL: 'https://github.com/tangly1024/NotionNext', // 特性1
 
   STARTER_FEATURE_2_TITLE_1: '机票', // 特性2
