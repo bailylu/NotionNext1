@@ -338,7 +338,7 @@ const CONFIG = {
         },
         {
           TITLE: '中国大陆使用Notion',
-          URL: 'https://docs.tangly1024.com/article/notion-faster'
+          URL: 'https://jiaocheng.us.kg'
         }
       ]
     }
