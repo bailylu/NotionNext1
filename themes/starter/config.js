@@ -13,9 +13,9 @@ const CONFIG = {
   STARTER_HERO_TITLE_1: '👋Hi，我是贝利，希望我的分享对你有帮助，感谢你的支持。', // 英雄区文字
   STARTER_HERO_TITLE_2: 'Tech Value | 科技/旅行/性价比生活', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
-  STARTER_HERO_BUTTON_1_TEXT: '必看推荐', // 英雄区按钮
+  STARTER_HERO_BUTTON_1_TEXT: '必看内容', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
-    'https://muselink.cc/bailytalk', // 英雄区按钮
+    'https://muselink.cc/baily', // 英雄区按钮
   STARTER_HERO_BUTTON_2_TEXT: '知识星球', // 英雄区按钮
   STARTER_HERO_BUTTON_2_URL: 'https://t.zsxq.com/cJjhz', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '/images/starter/zhiShiXingQiu (1).svg', // 英雄区按钮2的图标，不需要则留空
@@ -33,8 +33,8 @@ const CONFIG = {
 
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
-  STARTER_FEATURE_TITLE: '我认为', // 特性
-  STARTER_FEATURE_TEXT_1: '可以买贵的，但不能买贵了', // 特性
+  STARTER_FEATURE_TITLE: '跟我一起', // 特性
+  STARTER_FEATURE_TEXT_1: '花费更少，享受更好', // 特性
   STARTER_FEATURE_TEXT_2:
     '致力于为您分享高性价比的数码科技，同时教会大家如何巧用信用卡、酒店和机票积分，掌握实用的旅行查询技巧，让我们一起享受更精彩的旅行生活！', // 特性
 
